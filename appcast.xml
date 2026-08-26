@@ -5,5 +5,18 @@
     <link>https://github.com/hiyuno/Dashop-updates</link>
     <description>Actualizaciones de Dashop para macOS</description>
     <language>es</language>
-  </channel>
+    <item>
+      <title>Dashop 1.0.1</title>
+      <pubDate>Wed, 26 Aug 2026 15:15:51 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/hiyuno/Dashop-updates/releases/download/v1.0.1/Dashop-1.0.1.dmg"
+        sparkle:edSignature="yB1kBBWXva9wlkyJn/Nfl/9YU49jI0kDu7FqtV3hxyltxMTO0vzw5ES/UggDo6KY1MLtLnH2h+O0W2+YgI7XDA=="
+        length="5833544"
+        type="application/octet-stream" />
+    </item>
+
+    </channel>
 </rss>
