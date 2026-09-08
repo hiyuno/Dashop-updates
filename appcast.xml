@@ -343,5 +343,18 @@
         type="application/octet-stream" />
     </item>
 
+    <item>
+      <title>Dashop 1.0.27</title>
+      <pubDate>Tue, 08 Sep 2026 19:51:10 +0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/hiyuno/Dashop-updates/releases/download/v1.0.27/Dashop-1.0.27.dmg"
+        sparkle:edSignature="t97jc+/39Ij5ev+xm8kM8z94Ww+4JS3Lvg2IROHYehaMsD+tFVSiN0F3Ra89i9w8kbfLC/qblKNL/5lpg8dpBw=="
+        length="6144221"
+        type="application/octet-stream" />
+    </item>
+
   </channel>
 </rss>
