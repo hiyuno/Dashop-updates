@@ -629,5 +629,18 @@
         type="application/octet-stream" />
     </item>
 
+    <item>
+      <title>Dashop 1.0.49</title>
+      <pubDate>Sat, 12 Sep 2026 04:12:51 +0000</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.0.49</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/hiyuno/Dashop-updates/releases/download/v1.0.49/Dashop-1.0.49.dmg"
+        sparkle:edSignature="bt1PGk0lb967rek9SJu3sz7WaXkRQiBtC6MlTVFRHnICMgpcvgBvmsnr1V3fEh4Ax0MSEBxydeje5XgDMC0xAA=="
+        length="6568955"
+        type="application/octet-stream" />
+    </item>
+
   </channel>
 </rss>
