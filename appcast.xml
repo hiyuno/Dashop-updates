@@ -850,5 +850,18 @@
         type="application/octet-stream" />
     </item>
 
+    <item>
+      <title>Dashop 1.0.66</title>
+      <pubDate>Fri, 25 Sep 2026 17:36:55 +0000</pubDate>
+      <sparkle:version>65</sparkle:version>
+      <sparkle:shortVersionString>1.0.66</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/hiyuno/Dashop-updates/releases/download/v1.0.66/Dashop-1.0.66.dmg"
+        sparkle:edSignature="58m9QaGfSmHS+/jbhx1iNsN7BIM6EsnvMxLHjmY/ZdAg75TU+DM48+gbgn/LM3k59e4Rz/P03g+RvJccaPGBAQ=="
+        length="6904577"
+        type="application/octet-stream" />
+    </item>
+
   </channel>
 </rss>
